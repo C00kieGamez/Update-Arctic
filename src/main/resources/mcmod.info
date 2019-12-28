@@ -1,0 +1,16 @@
+[
+{
+  "modid": "updatearctic",
+  "name": "Update Arctic",
+  "description": "Winter Modding Contest MMC Discord 2019",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_Cookie_ (C00kieGamez"],
+  "credits": "Everyone in the MMC discord",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

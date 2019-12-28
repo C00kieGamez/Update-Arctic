@@ -1,0 +1,28 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Walking On 4ft Of Packed Snow"
+        },
+        "description": {
+            "text": "Discover the Arctic Plains Biome"
+        },
+        "icon": {
+            "item": "minecraft:snow"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "foundglacier": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "updatearctic:arctic plains",
+                "dimension": "overworld"
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+entity.arcticspider.name=Arctic Spider
+entity.snowstalker.name=Snow Stalker
+entity.arcticcreeper.name=Arctic Creeper
+entity.moose.name=Moose
+
+item.rawvenison.name=Raw Venison
+item.cookedvenison.name=Cooked Venison
+item.snowstalkerfur.name=Snow Stalker Fur
+item.snowstalkerfurchestplate.name=Snow Stalker Fur Chestplate
+item.snowstalkerfurhelmet.name=Snow Stalker Fur Helmet
+item.snowstalkerfurleggings.name=Snow Stalker Fur Leggings
+tile.campfire.name=Campfire

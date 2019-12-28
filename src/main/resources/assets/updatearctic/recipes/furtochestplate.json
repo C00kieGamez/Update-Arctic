@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "updatearctic:snowstalkerfur"
+        }
+    },
+    "result": {
+        "item": "updatearctic:snowstalkerfurchestplate",
+        "count": 1
+    }
+}

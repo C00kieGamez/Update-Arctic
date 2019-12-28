@@ -1,0 +1,39 @@
+{
+
+    "entity.snowstalker.ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.snowstalker.ambient",
+        "sounds": [{ "name": "updatearctic:entity/snowstalker/ambient", "stream": true}]
+        
+    },
+    "entity.snowstalker.ambient2":
+    {
+        "category": "entity",
+        "subtitle": "entity.snowstalker.ambient2",
+        "sounds": [{ "name": "updatearctic:entity/snowstalker/ambient2", "stream": true}]
+        
+    },
+    "entity.snowstalker.hurt":
+    {
+        "category": "entity",
+        "subtitle": "entity.snowstalker.hurt",
+        "sounds": [{ "name": "updatearctic:entity/snowstalker/hurt", "stream": true}]
+        
+    },
+    "entity.snowstalker.death":
+    {
+        "category": "entity",
+        "subtitle": "entity.snowstalker.death",
+        "sounds": [{ "name": "updatearctic:entity/snowstalker/death", "stream": true}]
+        
+    },
+    "entity.snowstalker.hurt2":
+    {
+        "category": "entity",
+        "subtitle": "entity.snowstalker.hurt2",
+        "sounds": [{ "name": "updatearctic:entity/snowstalker/hurt2", "stream": true}]
+        
+    }  
+
+}
